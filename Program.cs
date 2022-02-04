@@ -13,7 +13,9 @@ namespace Smirnovbelgit
             byte x = 10;
             byte y = 5;
             y += x;
+            y *= 3;
             Console.WriteLine(y);
+
         }
     }
 }
