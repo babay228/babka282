@@ -15,6 +15,7 @@ namespace Smirnovbelgit
             y += x;
             y *= 3;
             Console.WriteLine(y);
+            Console.WriteLine("xaxa");
 
         }
     }
